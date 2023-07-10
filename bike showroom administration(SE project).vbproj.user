@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="admin control.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bike details(Form5).vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer details(Form4).vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quotation details%28Form6%29.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Report_cust details(Form7).vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Report_Quotation report(Form8).vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="welcome screen(Form1).vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login screen(Form2).vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bike showroom administration main window(Form3).vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
